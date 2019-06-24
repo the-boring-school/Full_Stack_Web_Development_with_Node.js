@@ -117,3 +117,9 @@ Setting up the production server
 Pushing to the server and testing each feature
 Understanding more about SQL databases
 
+## Bonus ##
+1. GitHub Profile Creation with 3 unique projects
+2. LinkedIn Profile Importace and creation
+3. Mock Internship Interview 
+4. Entrepreneurial ways to get your own clients 
+5. Pros and Cons of working as Freelancer Full Stack Web Developer 
